@@ -1,4 +1,4 @@
-# AquaSentinel AI 🌊☀️
+<img width="1440" height="920" alt="02_live_dashboard" src="https://github.com/user-attachments/assets/9385f5e9-58dc-408b-a8ef-313598ae8b3f" /># AquaSentinel AI 🌊☀️
 ### AI-Powered Flood & Drought Early Warning and Climate Resilience Platform
 **Hackathon Submission:** Green Planet — GP-03: Flood & Drought Early Warning System  
 **System Designation:** Climate Resilience & Decision-Support Early Warning Platform  
@@ -377,6 +377,21 @@ npm run dev
 <img width="2813" height="1750" alt="04_fastapi_swagger_docs" src="https://github.com/user-attachments/assets/d05bf679-9220-4260-83e5-ce8e7514db1b" />
 <img width="2813" height="1375" alt="03_terminal_tests_passing" src="https://github.com/user-attachments/assets/f9042f04-951b-4b91-87dd-546d036eb393" />
 <img width="2813" height="1625" alt="02_terminal_run_servers" src="https://github.com/user-attachments/assets/85e9d143-5cbe-4337-b285-f7843ec0e114" />
+
+## PROJECT SCREENSHOTS
+
+<img width="1440" height="920" alt="01_login_gateway" src="https://github.com/user-attachments/assets/4f779e6b-d869-4c73-8d79-99f90acfe5cb" />
+<img width="1440" height="920" alt="02_live_dashboard" src="https://github.com/user-attachments/assets/6fa859ef-923d-4437-a97d-5956dbe73dfb" />
+<img width="1440" height="1650" alt="03_ai_hazard_predictor" src="https://github.com/user-attachments/assets/15ccbb09-0216-4c35-94b4-41c58fade15c" />
+<img width="1440" height="920" alt="04_hazard_map" src="https://github.com/user-attachments/assets/8e865ad5-b3c9-4074-b4b5-dd0ea933cfda" />
+<img width="1440" height="920" alt="05_river_monitoring" src="https://github.com/user-attachments/assets/d473d2ad-b4ab-4350-83df-c3d431ec5b35" />
+<img width="1440" height="920" alt="06_aqua_ai_assistant" src="https://github.com/user-attachments/assets/84d9d448-fe55-4c84-a1d8-607cb16dc0e5" />
+<img width="1440" height="1100" alt="07_ai_prediction_result" src="https://github.com/user-attachments/assets/93da9908-6985-4fdd-8f0d-b84a430849c7" />
+
+
+
+
+
 
 
 ## 13. License
