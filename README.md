@@ -373,6 +373,11 @@ npm run dev
 - **AI Coding Tools Used:** Antigravity (Google DeepMind Advanced Agentic Coding) was utilized during system architecture, algorithmic formulation, and code generation.
 
 ---
+## project run procedure Screenshots
+<img width="2813" height="1750" alt="04_fastapi_swagger_docs" src="https://github.com/user-attachments/assets/d05bf679-9220-4260-83e5-ce8e7514db1b" />
+<img width="2813" height="1375" alt="03_terminal_tests_passing" src="https://github.com/user-attachments/assets/f9042f04-951b-4b91-87dd-546d036eb393" />
+<img width="2813" height="1625" alt="02_terminal_run_servers" src="https://github.com/user-attachments/assets/85e9d143-5cbe-4337-b285-f7843ec0e114" />
+
 
 ## 13. License
 
